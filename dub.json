@@ -1,0 +1,9 @@
+{
+	"name": "travis-d",
+	"authors": [
+		"tewatana"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, wtetsu",
+	"license": "MIT"
+}
